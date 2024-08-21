@@ -1,4 +1,11 @@
 .container-logo{
-    height: 10%;
-    width: 15%;
+    height: 50%;
+    width: 50%;
+}
+
+.logo_img{
+    height: 50%;
+    width: 20%;
+    border-radius: 50%;
+   
 }
