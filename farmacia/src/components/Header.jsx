@@ -6,6 +6,7 @@ function Header() {
   return (
     <div className='container-cima'>
        <Logo/>
+       <h1>Farmácia da Marcia</h1>
     </div>
   )
 }
