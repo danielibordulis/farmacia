@@ -1,0 +1,65 @@
+.container-body{
+    min-height: 80%;
+    width: 100%;
+    display: flex;
+    
+}
+
+.logoGrande{
+    border-radius: 35%;
+    width: 25%;
+   
+}
+
+.bemVindo{
+    font-size: 160%;
+    color:#e23e57;
+}
+
+.caixaLateral{
+    height: 100vh;
+    width: 20%;
+    background-color: #ef97a4;
+}
+
+.caixaDireita{
+    display: flex;
+    align-items:center ;
+    flex-direction: column;
+    width: 100%;
+    
+}
+
+.container-fila{
+    display: flex;
+    flex-direction: column; 
+    align-items: flex-start;
+    padding: 50px;
+    gap: 20px;
+    width: 100%;
+    padding-left: 10%;
+}
+
+.senhas{
+    font-size: 200%;
+    color: #ce1f3a;
+}
+
+.chamarSenha{
+    height: 50px; 
+    width: 170px; 
+    background-color: #ce1F3a;
+    border-radius: 10px; 
+    border: none; 
+    color: white;
+    margin: 10px; 
+    cursor: pointer; 
+}
+.fila{
+    color: #e23e57;
+    font-size: 150%;
+}
+.proximos{
+    color: #e23e57;
+    font-size: 150%;
+}

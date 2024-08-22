@@ -1,5 +1,14 @@
+.titulo{
+    color: white;
+    font-size: 120%;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .container-cima{
     height: 20%;
     width: 100%;
     background-color: #ce1F3a;
+    display: flex;
+   align-items: center;
+  
 }

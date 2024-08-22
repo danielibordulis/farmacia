@@ -1,0 +1,47 @@
+.botoes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 120px;
+}
+
+.retire{
+    color: #ce1F3a;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 50px; 
+    width: 170px; 
+    align-items: center;
+   
+}
+.senhaNormal{
+    height: 50px; 
+    width: 170px; 
+    background-color: #ce1F3a;
+    border-radius: 10px; 
+    border: none; 
+    color: white;
+    margin: 10px; 
+    cursor: pointer; 
+}
+
+.senhaPreferencial{
+  height: 50px;
+  width: 170px; 
+  background-color: #ce1F3a;
+  border-radius: 10px; 
+  border: none; 
+  color: white; 
+  margin: 10px; 
+  cursor: pointer;  
+}
+
+.camisasPromo{
+    height: 50px;
+    width: 170px; 
+    background-color: #ce1F3a;
+    border-radius: 10px; 
+    border: none; 
+    color: white; 
+    margin: 10px; 
+    cursor: pointer;    
+}
